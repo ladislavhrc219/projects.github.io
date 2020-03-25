@@ -1,7 +1,6 @@
-showcase portfolio projects 
+https://ladislavhrc219.github.io/projects.github.io/
 
-
-
+Showcase projects
 
 could not deploy the Feedback form to Heroku, this error comes everytime up: 
 To https://git.heroku.com/vertufeedback.git
